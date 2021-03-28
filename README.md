@@ -16,7 +16,7 @@ Hi, I'm Sayantan Sarkar, a passionate self-taught Competitive Programmer and a A
 I am a team player and love to discuss and solve coding problems. C++ is the main language I use for competitive coding. Currently trying to master Python and Java (for application development purpose)
 <br />
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="300" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="300" />
   
 <br />
 
