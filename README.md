@@ -47,5 +47,7 @@ I am a team player and love to discuss and solve coding problems. C++ is the mai
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=sayskar500&show_icons=true&theme=radical" alt="Sayantan Sarkar" />
 
+[![@sayskar500's Holopin board](https://holopin.io/api/user/board?user=sayskar500)](https://holopin.io/@sayskar500)
+
 
 
